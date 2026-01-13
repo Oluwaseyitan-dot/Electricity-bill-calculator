@@ -14,9 +14,8 @@ This system calculates electricity bills based on units consumed.
 * Bill is calculated using a fixed rate
   
 # Functions
-
-calculate_bill() -	Calculates bill
-main() -	Controls program
+* calculate_bill() -	Calculates bill
+* main() -	Controls program
 
 
 # 3. Testing
