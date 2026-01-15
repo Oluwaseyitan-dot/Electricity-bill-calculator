@@ -3,6 +3,9 @@
 * Matric no : 24/15032
 * Department : Computer science
 
+# The URL: https://github.com/Oluwaseyitan-dot/Electricity-bill-calculator.git
+
+
 # 1. Requirement Analysis
 This system calculates electricity bills based on units consumed.
 
