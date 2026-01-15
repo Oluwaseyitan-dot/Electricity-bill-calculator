@@ -10,20 +10,20 @@
 
 This is where the problem is clearly understood.
 
-# Requirements for this project:
+Requirements for this project:
 	•	The system should calculate electricity bill.
 	•	The user should enter the number of units consumed.
 	•	The system should use a fixed rate (₦50 per unit).
 	•	The system should display the total bill.
 	•	The system should keep running until the user chooses to exit.
 
-# Functional Requirements:
+Functional Requirements:
 	•	Accept user input (units).
 	•	Multiply units by rate.
 	•	Display result.
 	•	Provide menu options (Calculate Bill / Exit).
 
-# Non-Functional Requirements:
+Non-Functional Requirements:
 	•	Program should be simple and user-friendly.
 	•	Program should be fast and accurate.
 	•	Program should not crash on wrong menu input.
@@ -33,7 +33,7 @@ This is where the problem is clearly understood.
 
 This stage decides how the program will work internally.
 
-# Design Decisions:
+Design Decisions:
 	•	Use Python as the programming language.
 	•	Use functions to organize the program:
 	•	calculate_bill() → handles bill calculation.
@@ -41,7 +41,7 @@ This stage decides how the program will work internally.
 	•	Use a while loop to keep the program running.
 	•	Use a fixed rate (₦50 per unit).
 
-# Logical Design (Algorithm):
+Logical Design (Algorithm):
 	1.	Display menu
 	2.	Ask user for choice
 	3.	If choice = 1:
@@ -54,8 +54,7 @@ This stage decides how the program will work internally.
 	•	Display “Invalid option”
 	6.	Repeat until exit
   
-
-# 3. Implementation (Coding Stage)
+ 3. Implementation (Coding Stage)
 
 This is where the design is converted into actual code.
 
@@ -91,17 +90,17 @@ Exit option
 2
 Program exits
 
-# Testing Type Used:
+ Testing Type Used:
 	•	Unit Testing → testing calculate_bill() function
 	•	System Testing → running the full program
 	•	Manual Testing → user enters inputs manually
 
 
-# 5. Deployment
+5. Deployment
 
 This stage makes the software available for use.
 
-#  For this project:
+ For this project:
 	•	The program is run from:
 	•	Terminal
 	•	Command Prompt
